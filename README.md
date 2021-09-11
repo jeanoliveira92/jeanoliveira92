@@ -1,7 +1,7 @@
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanoliveira92&show_icons=true&include_all_commits=true&count_private=true&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanoliveira92&layout=compact&langs_count=7&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanoliveira92&show_icons=true&include_all_commits=true&count_private=true&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanoliveira92&layout=compact&langs_count=7&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br"/>
 </div>
 
  ##
