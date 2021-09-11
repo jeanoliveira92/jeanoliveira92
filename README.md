@@ -1,13 +1,7 @@
- <style>
- #inicio{
- display:flex;
- }
- </style>
- 
- <a href="#">
- <div align="center" id="inicio">
- <img style="flex: 1; margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=jeanoliveira92&show_icons=true&include_all_commits=true&count_private=true&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br"/>
-  <img style="flex: 1; margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanoliveira92&layout=compact&langs_count=7&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br"/>
+<a href="#">
+ <div align="center">
+ <img width="55%" src="https://github-readme-stats.vercel.app/api?username=jeanoliveira92&show_icons=true&include_all_commits=true&count_private=true&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanoliveira92&layout=compact&langs_count=7&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br"/>
 
   </div>
 </a>
