@@ -1,7 +1,7 @@
 <a href="#">
  <div align="center">
  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=jeanoliveira92&show_icons=true&include_all_commits=true&count_private=true&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanoliveira92&layout=compact&langs_count=7&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br&hide=C%23"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanoliveira92&layout=compact&langs_count=8&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br&hide=C%23,tsql, html"/>
 
   </div>
 </a>
@@ -14,6 +14,7 @@
   <img align="center" alt="Jean-Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
   <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jean-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jean-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Jean-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
