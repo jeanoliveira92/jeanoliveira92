@@ -20,4 +20,4 @@
   <img align="center" alt="Jean-PS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
 </div>
 </br>
-Veja abaixo alguns dos meus principais projetos, ou acesse repositório para ver todos.
+Veja abaixo alguns dos meus principais projetos ou acesse repositórios para ver todos.
