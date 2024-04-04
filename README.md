@@ -1,13 +1,10 @@
-<a href="#">
- <div align="center">
- <img width="55%" src="https://github-readme-stats.vercel.app/api?username=jeanoliveira92&show_icons=true&include_all_commits=true&count_private=true&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanoliveira92&layout=compact&langs_count=8&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br&hide=C%23,html" />
+# Jean C. Oliveira
 
-  
-  
-  </div>
-</a>
- <div style="display: inline_block" align="center"><br>
+[![Twitter Badge](https://img.shields.io/badge/@jeanoliveira92-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/jeanoliveira92)](https://twitter.com/jeanoliveira92) 
+[![Linkedin Badge](https://img.shields.io/badge/jeanoliveira92-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanoliveira92/)](https://www.linkedin.com/in/jeanoliveira92/) 
+[![Gmail Badge](https://img.shields.io/badge/jeancarlosdeoliveira@outlook.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeancarlosdeoliveira@outlook.com)](mailto:jeancarlosdeoliveira@outlook.com)
+
+ <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jean-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,11 +19,5 @@
   <img align="center" alt="Jean-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jean-PS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
 </div>
-  
-  ##
- <div align="center">
-  <a href="https://www.facebook.com/JeanOliveira92" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/jeanoliveira92" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jeancarlosdeoliveira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeanoliveira92" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</br>
+Veja abaixo alguns dos meus principais projetos, ou acesse repositório para ver todos.
